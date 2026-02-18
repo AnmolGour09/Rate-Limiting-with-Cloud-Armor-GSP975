@@ -18,8 +18,6 @@ echo "${CYAN_TEXT}${BOLD_TEXT}============================================${RESE
 echo "${CYAN_TEXT}${BOLD_TEXT}🚀              Anmol Gour               🚀${RESET_FORMAT}"
 echo "${CYAN_TEXT}${BOLD_TEXT}============================================${RESET_FORMAT}"
 echo
-echo "${GREEN_TEXT}${BOLD_TEXT}Don't forget to subscribe to Dr. Abhishek's YouTube channel:${RESET_FORMAT}"
-echo "${BLUE_TEXT}${BOLD_TEXT}${UNDERLINE_TEXT}https://www.youtube.com/@drabhishek.5460/videos${RESET_FORMAT}"
 echo
 echo "${CYAN_TEXT}${BOLD_TEXT}===================================${RESET_FORMAT}"
 echo "${CYAN_TEXT}${BOLD_TEXT}🚀     INITIATING EXECUTION     🚀${RESET_FORMAT}"
